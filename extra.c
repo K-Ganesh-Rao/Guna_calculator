@@ -172,24 +172,24 @@ void loop() {
   //   Serial.println(bn + gn);
     
     
-  //   if(A[bn][gn] >= 18){
-  //     if(sq[bn][gn] == 0){
-  //       Serial.println("Marriage Possible");
-  //     }
-  //     else{
-  //       Serial.println("Marriage not possible");
-  //     }
-  //   }
-  //   else if(A[bn][gn] < 18){
-  //     if(hx[bn][gn] == 0){
-  //       Serial.println("Marriage Not Possible");
-  //     }
-  //     else{
-  //       Serial.println("Marriage Possible");        
-  //     }
-  //   }
-  //   else
-  //     Serial.println("ganeshana maduve");
+    // if(A[bn][gn] >= 18){
+    //   if(sq[bn][gn] == 0){
+    //     Serial.println("Marriage Possible");
+    //   }
+    //   else{
+    //     Serial.println("Marriage not possible");
+    //   }
+    // }
+    // else if(A[bn][gn] < 18){
+    //   if(hx[bn][gn] == 0){
+    //     Serial.println("Marriage Not Possible");
+    //   }
+    //   else{
+    //     Serial.println("Marriage Possible");        
+    //   }
+    // }
+    // else
+    //   Serial.println("ganeshana maduve");
      
   //   delay(1000);
 }
