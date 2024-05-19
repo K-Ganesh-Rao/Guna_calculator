@@ -170,7 +170,7 @@ void loop() {
   // bn = input1;
   // gn = input2;
 
-  //   Serial.println(bn + gn);
+  
     
     
     // if(A[bn][gn] >= 18){
