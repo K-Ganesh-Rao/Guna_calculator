@@ -1,4 +1,5 @@
 int A[36][36];
+
 int sq[36][36];
 int hx[36][36];
 int count = 0;
