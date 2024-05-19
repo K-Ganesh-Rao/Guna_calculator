@@ -3,6 +3,7 @@ int sq[36][36];
 int hx[36][36];
 int count = 0;
 int bn = 0, gn = 0;
+
 void setup() {
   // put your setup code here, to run once:
     Serial.begin(9600);
